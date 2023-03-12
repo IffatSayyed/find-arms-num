@@ -1,0 +1,24 @@
+{
+  "name": "simply_find_arms_num",
+  "version": "1.0.0",
+  "description": "by using simply_find_arms_num package can find the number is armstrong or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IffatSayyed/find-arms-num.git"
+  },
+  "keywords": [
+    "find",
+    "armstrong",
+    "number"
+  ],
+  "author": "Iffat Sayyed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IffatSayyed/find-arms-num/issues"
+  },
+  "homepage": "https://github.com/IffatSayyed/find-arms-num#readme"
+}
